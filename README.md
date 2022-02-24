@@ -1,2 +1,1 @@
-# data
-datafiles for public use
+These data give the abundance of Ecklonia radiata (ER; plants/quadrat) and Evechinus chloroticus (EC; individuals/quadrat), measured using a 25m2 quadrat at each of 103 locations in Fiordland, Aotearoa New Zealand.
